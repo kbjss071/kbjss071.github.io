@@ -1,7 +1,7 @@
 Module 2 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Woo-hoo! You get to do some coding! Exciting!
+link: https://kbjss071.github.io/mod2-solution
 
 **Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.**
 
